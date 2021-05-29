@@ -18,9 +18,5 @@ The project comes with a sample application, showcasing the various ways you can
 
 From there, try typing `help` or `help <commmand>` at the shell prompt.
 
-<<<<<<< HEAD
-add dev  branch 
+add dev  branch 1
 add  master code
-=======
-add  master code
->>>>>>> 227a56e25686f6cd09faede1c8a0a57d55d3e0a5
